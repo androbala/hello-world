@@ -1,0 +1,12 @@
+{
+  "name": "HelloApp",
+  "description": "Hello World Application in AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/androbala/hello-world.git",
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0"
+  }
+}
